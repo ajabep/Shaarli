@@ -1,3 +1,9 @@
+## Changelog
+
+:warning: This fork do not aim to be updated or better than the origin, it aims to be a code base to pull requests only.
+
+_______________________
+
 ![Shaarli logo](doc/md/images/doc-logo.png)
 
 The personal, minimalist, super-fast, database free, bookmarking service.
